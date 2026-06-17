@@ -12,7 +12,6 @@ public class Algorithms {
         }
         return -1;
     }
- //binary search
 
     public static int BinarySearch(int[] array, int target) {
         System.out.println("Starting Binary Search");

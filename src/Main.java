@@ -29,7 +29,7 @@ public class Main {
                 System.out.println("target" + target + " was not found");
           }
 
-          //Binary Search Algorithm
+          //Binary Search
         int[] sortedArray = Arrays.copyOf(arr, arr.length);
         Arrays.sort(sortedArray);
 
